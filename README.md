@@ -10,7 +10,7 @@ U-Net is an architecture for semantic segmentation. It consists of a contracting
 
 # Architecture
 
-![UNet Architecture](file:///C:/Users/AHMED/OneDrive/Desktop/Khaja%20Raouf/architectures%20images/Unet%20Architecture.png)
+![Unet Architecture](https://github.com/khajaraouf/segmentation_UNet/assets/70451209/9d1ca515-1147-46f1-9a76-0a7838e71620)
 
 
 # Source Paper
